@@ -1,1 +1,2 @@
-# mod5_mp2_sentiment_classification
+# sentiment_docker
+Dockerising sentiment api app
